@@ -1,0 +1,103 @@
+{
+    "index_name": "91e5a158-0918-446c-9854-42832bdf8e70",
+    "title": "Number of Indian Nationals Departures from India from 1991 to 2017",
+    "desc": "Number of Indian Nationals Departures from India from 1991 to 2017",
+    "org_type": "Central",
+    "org": [
+        "Ministry of Tourism"
+    ],
+    "sector": [
+        "Travel and Tourism"
+    ],
+    "source": "data.gov.in",
+    "catalog_uuid": "ac273ebc-aa3b-4d3d-8e1d-b89443412f96",
+    "visualizable": "1",
+    "active": "1",
+    "created": 1624522587,
+    "updated": 1624867153,
+    "created_date": "2021-06-24T08:16:27Z",
+    "updated_date": "2021-06-28T13:29:13Z",
+    "external_ws": 0,
+    "external_ws_url": "",
+    "target_bucket": {
+        "index": "mohfw",
+        "type": "ac273ebc-aa3b-4d3d-8e1d-b89443412f96",
+        "field": "91e5a158-0918-446c-9854-42832bdf8e70"
+    },
+    "field": [
+        {
+            "id": "year",
+            "name": "Year",
+            "type": "double"
+        },
+        {
+            "id": "number_of_indian_nationals__departures_from_india",
+            "name": "Number of Indian Nationals' departures from India",
+            "type": "double"
+        },
+        {
+            "id": "percentage_change_over_the_previous_year",
+            "name": "Percentage change over the previous year",
+            "type": "double"
+        }
+    ],
+    "message": "Resource lists",
+    "version": "2.2.0",
+    "status": "ok",
+    "total": 27,
+    "count": 10,
+    "limit": "10",
+    "offset": "0",
+    "records": [
+        {
+            "year": 1991,
+            "number_of_indian_nationals__departures_from_india": 1942707,
+            "percentage_change_over_the_previous_year": -14.8
+        },
+        {
+            "year": 1992,
+            "number_of_indian_nationals__departures_from_india": 2161301,
+            "percentage_change_over_the_previous_year": 11.3
+        },
+        {
+            "year": 1993,
+            "number_of_indian_nationals__departures_from_india": 2733304,
+            "percentage_change_over_the_previous_year": 26.5
+        },
+        {
+            "year": 1994,
+            "number_of_indian_nationals__departures_from_india": 2734830,
+            "percentage_change_over_the_previous_year": 0.1
+        },
+        {
+            "year": 1995,
+            "number_of_indian_nationals__departures_from_india": 3056360,
+            "percentage_change_over_the_previous_year": 11.8
+        },
+        {
+            "year": 1996,
+            "number_of_indian_nationals__departures_from_india": 3463783,
+            "percentage_change_over_the_previous_year": 13.3
+        },
+        {
+            "year": 1997,
+            "number_of_indian_nationals__departures_from_india": 3725820,
+            "percentage_change_over_the_previous_year": 7.6
+        },
+        {
+            "year": 1998,
+            "number_of_indian_nationals__departures_from_india": 3810908,
+            "percentage_change_over_the_previous_year": 2.3
+        },
+        {
+            "year": 1999,
+            "number_of_indian_nationals__departures_from_india": 4114820,
+            "percentage_change_over_the_previous_year": 8
+        },
+        {
+            "year": 2000,
+            "number_of_indian_nationals__departures_from_india": 4415513,
+            "percentage_change_over_the_previous_year": 7.3
+        }
+    ]
+}
